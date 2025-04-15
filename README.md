@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## 👋 Hey there! I'm Ganesh<br><br>I'm a 🎓 Computer Science Master's student at the University of North Texas and a 💻 Full-Stack Developer with 1+ years of experience building scalable apps across e-commerce and financial domains.<br><br>### 🚀 What I Do<br>- 🧠 Write clean, production-ready code with Java, JavaScript, and Python<br>- 🌐 Build responsive full-stack apps using React, Node.js, Express, Spring Boot<br>- 🛠️ Design and consume RESTful APIs, manage SQL and NoSQL databases<br>- ☁️ Deploy to cloud platforms like AWS, Heroku, and Firebase<br>- 🔁 Practice Agile workflows with GitHub, GitLab, and Jira<br><br>### 🧩 Currently:<br>- 🌱 Strengthening my Java + Spring Boot backend mastery<br>- 🧪 Exploring AI/ML models and integrating them into real-world apps<br>- 💼 Looking for Software Development or Backend Engineer roles (Summer/Fall 2025)<br><br>### 🔗 Let's Connect:<br>- 📬 ganeshgundekarla@gmail.com<br>- 🧠 [LinkedIn](https://www.linkedin.com/in/ganeshgundekarla/)<br>- 💾 [GitHub](https://github.com/gnevercodes)<br>
 
 
