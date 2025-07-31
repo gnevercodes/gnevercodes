@@ -21,6 +21,9 @@ I'm a 🎓 Computer Science Master's student at the University of North Texas an
 - 💾 [GitHub](https://github.com/gnevercodes)
 
 ---
+![](https://komarev.com/ghpvc/?username=gnevercodes&color=blue)
+
+---
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshgundekarla)  
