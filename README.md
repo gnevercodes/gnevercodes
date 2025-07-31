@@ -22,18 +22,20 @@ I'm a 🎓 Computer Science Master's student at the University of North Texas an
 - 🧪 Experimenting with AI/ML integrations for real-world applications  
 - 💼 Open to Software Development and Backend Engineer roles (Summer/Fall 2025)  
 
+
 ## 🔗 Let's Connect  
 
 <p align="left">
-  <a href="mailto:ganeshgundekarla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:ganeshgundekarla@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/ganeshgundekarla/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/ganeshgundekarla/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/gnevercodes">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/gnevercodes" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
   </a>
+</p>
 </p>
 
 ---
