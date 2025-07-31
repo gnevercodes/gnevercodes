@@ -1,9 +1,12 @@
-# About Me:
+
 <!-- Banner (optional) -->
 <h2 align="center">Welcome to My Profile!</h2>
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/source-code.png" alt="Ganesh's Avatar" width="80"/>
 </p>
+
+--- 
+
 ## 👋 Hey there! I'm Ganesh  
 I'm a 🎓 Computer Science Master's student at the University of North Texas and a 💻 Full-Stack Developer with 3+ years of experience building scalable apps across e-commerce and financial domains.
 
