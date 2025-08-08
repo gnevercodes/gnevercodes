@@ -8,7 +8,7 @@
 --- 
 
 ## 👋 Hey there! I'm Ganesh  
-I'm a 🎓 Computer Science Master's student at the University of North Texas and a 💻 Full-Stack Developer with 3+ years of experience building scalable apps across e-commerce and financial domains.
+I'm a 🎓 Computer Science Master's student at the University of North Texas and a 💻 Full-Stack Developer and data analyst with 3+ years of experience building scalable apps across e-commerce and financial domains.
 
 ## 🚀 What I Do  
 - 🧠 Writes clean, production-ready code using Java, JavaScript, and Python  
