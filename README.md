@@ -20,7 +20,7 @@ I'm a 🎓 Computer Science Master's student at the University of North Texas an
 ## 🧩 Currently  
 - 🌱 Leveling up my backend skills with Java , Spring Boot and Data Analysis.  
 - 🧪 Experimenting with AI/ML integrations for real-world applications  
-- 💼 Open to Software Development and Backend Engineer roles (Summer/Fall 2025)  
+- 💼 Open to Software Development and Analyst roles (Summer/Fall 2025)  
 
 
 ## 🔗 Let's Connect  
