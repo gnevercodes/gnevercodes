@@ -18,7 +18,7 @@ I'm a 🎓 Computer Science Master's student at the University of North Texas an
 - 🔁 Work in Agile teams with GitHub, GitLab, Jira, and CI/CD pipelines  
 
 ## 🧩 Currently  
-- 🌱 Leveling up my backend skills with Java & Spring Boot  
+- 🌱 Leveling up my backend skills with Java , Spring Boot and Data Analysis.  
 - 🧪 Experimenting with AI/ML integrations for real-world applications  
 - 💼 Open to Software Development and Backend Engineer roles (Summer/Fall 2025)  
 
