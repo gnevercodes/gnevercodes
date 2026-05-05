@@ -8,12 +8,12 @@
 --- 
 
 ## 👋 Hey there! I'm Ganesh  
-I'm a 🎓 Computer Science Master's student at the University of North Texas and a 💻 Full-Stack Developer and data analyst with 3+ years of experience building scalable apps across e-commerce and financial domains.
+I'm a 🎓 Computer Science Master's student at the University of North Texas and a 💻 Full-Stack Developer,financial analyst and a  data analyst with 2+ years of experience building scalable apps across e-commerce and financial domains.
 
 ## 🚀 What I Do  
-- 🧠 Writes clean, production-ready code using Java, JavaScript, and Python  
+- 🧠 Writes clean, production-ready code using Java,Spring frameworks.  
 - 🌐 Build full-stack apps with React, Node.js, Express, Spring Boot  
-- 🛠️ Create RESTful APIs and manage SQL (MySQL, PostgreSQL) & NoSQL (MongoDB) databases  
+- 🛠️ Currently Creating AI Dashboards for analysis with real time data.
 - ☁️ Deploy to cloud platforms like AWS, Heroku, and Firebase  
 - 🔁 Work in Agile teams with GitHub, GitLab, Jira, and CI/CD pipelines  
 
